@@ -34,6 +34,7 @@
   </head>
 
   <body>
+    <div><h1>rume</h1></div>
     <div id="viewDiv"></div>
   </body>
 </html>
